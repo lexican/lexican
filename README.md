@@ -5,9 +5,9 @@ A Keen Software Engineer with necessary soft driven skills and determination to 
 <li>👯 I’m looking to collaborate and work on open-source tools.</li>
 <li>⚡ Fun fact: ...aside from punching my keyboard, I love playing video games and reading books to get knowledge on different facets of life. </li>
 
-<hr>
+<br>
 <b>Proficient: Java, Node.js/Javascript, Dart.</b>
-
+<br>
 📫 I will love to hear from you. Whether it's a project, job, opportunity or just a chat. Feel free to contact me. adeyemokunlexze@gmail.com
 
 
