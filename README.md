@@ -1,4 +1,4 @@
-Hi, i am Adeyemo Adekunle by name. I Build 👷, I Ship 🚀 and Scale Products 📈.
+<b>Hi, i am Adeyemo Adekunle by name. I Build 👷, I Ship 🚀 and Scale Products 📈.</b>
 
 A Keen Software Engineer with necessary soft driven skills and determination to solve complex problems. Strong Javascript and java programming skills and excellent communication. I also love working in a team and taking a leadership role. I can fit into any role assigned to me be it Backend(Nodejs and Springboot) or frontend(ReactJs) and i am a fast learner that is willing and dedicated to learning a new tool or framework.
 
