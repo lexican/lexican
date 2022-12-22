@@ -1,8 +1,11 @@
-I'm an experienced Fullstack Engineer with over four years of experience building web and mobile applications with React, React native and Nodejs. I have worked remotely in Agile environments, communicating effectively with my team members and sometimes with the business team and client. 
+ 
+Software Engineer with over 4 years of experience building and delivering software products. I'm focused on mobile development with strong emphasis on JAVA/Kotlin, Flutter and React Natvie. I also have experience with web development with TypeScript, JavaScript, React, NextJs and Node Js.
 
-<b>Proficient: TypeScript, Javascript(Nodejs, Reactjs, React Native), Java(Springboot), Dart(Flutter).</b>
+<b>Proficient: TypeScript, JavaScript, Reactjs, React Native, NextJs, Nodejs, Java (Springboot), Kotlin,  Dart(Flutter).</b>
 
-<li>When I am not coding, I love playing lawn tennis, going out, and playing some mobile games.</li>
+<li>Get your hands dirty always ...</li>
+
+<br>
 
 
 
